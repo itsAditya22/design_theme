@@ -14,6 +14,14 @@ app_license = "MIT"
 # app_include_css = "/assets/design_theme/css/design_theme.css"
 # app_include_js = "/assets/design_theme/js/design_theme.js"
 
+app_include_css = ["/assets/design_theme/css/style.css","/assets/design_theme/css/css_varaibles.scss"]
+
+app_include_js = [
+    #"list.bundle.js",
+    "custom_desk.bundle.js", 
+    "/assets/design_theme/js/script.js" 
+    ]
+
 # include js, css files in header of web template
 # web_include_css = "/assets/design_theme/css/design_theme.css"
 # web_include_js = "/assets/design_theme/js/design_theme.js"
