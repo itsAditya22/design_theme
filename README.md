@@ -14,7 +14,7 @@ Made for create new UI/theme for frappe
 
 design_theme supported frappe and ERPNext theme for v13 v14
 
-**Usage**
+**Installation.**
 
 Step 1. Get theme from git using bench get-app command
 
